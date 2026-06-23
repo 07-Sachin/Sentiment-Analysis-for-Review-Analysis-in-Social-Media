@@ -1,0 +1,1 @@
+Grafana integration available — use SQLite export or Postgres if you want Grafana visualizations.

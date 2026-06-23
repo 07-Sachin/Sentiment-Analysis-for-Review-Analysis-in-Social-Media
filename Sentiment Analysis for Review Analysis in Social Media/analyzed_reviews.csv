@@ -1,0 +1,11 @@
+review_text,cleaned_text,sentiment_label,confidence
+This product is absolutely amazing and I love it!,This product is absolutely amazing and I love it!,positive,0.76
+The quality is terrible and I am very disappointed.,The quality is terrible and I am very disappointed.,negative,0.76
+"It’s okay, not too bad but not great either.","It s okay, not too bad but not great either.",neutral,0.7
+"Excellent value for money, totally worth it!","Excellent value for money, totally worth it!",positive,0.65
+The design looks cheap and feels poorly made.,The design looks cheap and feels poorly made.,neutral,0.65
+Good performance overall but battery life could be better.,Good performance overall but battery life could be better.,neutral,0.6
+"I hate how slow this device is, very frustrating.","I hate how slow this device is, very frustrating.",negative,0.76
+"Pretty decent for the price, I’m satisfied.","Pretty decent for the price, I m satisfied.",neutral,0.65
+This is the worst purchase I’ve made this year.,This is the worst purchase I ve made this year.,negative,0.65
+"Awesome experience, I really like the product.","Awesome experience, I really like the product.",positive,0.65

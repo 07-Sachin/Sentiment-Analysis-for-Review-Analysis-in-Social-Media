@@ -1,0 +1,9 @@
+app:
+  name: "Sentiment Single-Input System"
+  version: "1.0"
+
+storage:
+  sqlite_db: "data/reviews.db"
+
+gemini:
+  model: "gemini-1.5-flash"
