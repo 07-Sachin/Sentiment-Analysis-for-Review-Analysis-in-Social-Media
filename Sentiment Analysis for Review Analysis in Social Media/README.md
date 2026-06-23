@@ -1,4 +1,4 @@
-Sentiment Analyzer - No Kafka (Sample Mode)
+Sentiment Analyzer - 
 
 How to run:
 1. python -m venv venv
